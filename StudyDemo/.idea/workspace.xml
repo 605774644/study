@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e92a23fd-6d66-4be5-85dc-2b961ff1495d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/ApplePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/HaiErPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/intface/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/HaiErTv.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/HaiErTv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/HuaWeiPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/SanXinPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/intface/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/PhoneFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/HaiErFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/SanXinTv.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/SanXinTv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/Tv.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/intface/Tv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/TvFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/SanXinFactory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,35 +20,7 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/intface/Phone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/intface/Tv.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/intface/Factory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,7 +51,6 @@
         <option value="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/Electronics.java" />
         <option value="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/TvFactory.java" />
         <option value="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/PhoneFactory.java" />
-        <option value="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/MainTest.java" />
         <option value="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/Tv.java" />
         <option value="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/Color.java" />
         <option value="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/Memory.java" />
@@ -104,6 +65,7 @@
         <option value="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/SanXinFactory.java" />
         <option value="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/HaiErFactory.java" />
         <option value="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/HaiErPhone.java" />
+        <option value="$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/MainTest.java" />
       </list>
     </option>
   </component>
@@ -138,7 +100,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="101" />
     <option name="y" value="64" />
     <option name="width" value="1440" />
@@ -171,62 +133,6 @@
               <item name="FactoryDemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="StudyDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="AbstractFactoryMethod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="FactoryDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="github" type="462c0819:PsiDirectoryNode" />
-              <item name="SimpleFactory" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -238,7 +144,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552114213008" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552114731315" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -267,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainTest (2)">
+  <component name="RunManager" selected="Application.MainTest">
     <configuration name="MainTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.github.FactoryMethod.MainTest" />
       <module name="factory" />
@@ -309,7 +215,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainTest (2)" />
         <item itemvalue="Application.MainTest (1)" />
         <item itemvalue="Application.MainTest" />
       </list>
@@ -326,7 +231,7 @@
       <option name="presentableId" value="Default" />
       <updated>1552032604488</updated>
       <workItem from="1552032608874" duration="292000" />
-      <workItem from="1552032923079" duration="8489000" />
+      <workItem from="1552032923079" duration="9197000" />
     </task>
     <task id="LOCAL-00001" summary="简单工厂">
       <created>1552032850496</created>
@@ -356,11 +261,25 @@
       <option name="project" value="LOCAL" />
       <updated>1552036820835</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="工厂方法和抽象工厂">
+      <created>1552114213220</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552114213220</updated>
+    </task>
+    <task id="LOCAL-00006" summary="简单工厂和工厂方法和抽象工厂">
+      <created>1552114336214</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552114336214</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8781000" />
+    <option name="totallyTimeSpent" value="9489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="101" y="64" width="1440" height="877" extended-state="0" />
@@ -375,7 +294,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32939634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32939634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -386,7 +305,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32939634" />
       <window_info anchor="bottom" id="Problems" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32939634" />
+      <window_info anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32939634" />
       <window_info anchor="bottom" id="JRebel Executor" order="14" />
       <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -432,7 +351,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="简单工厂" />
     <MESSAGE value="工厂方法和抽象工厂" />
-    <option name="LAST_COMMIT_MESSAGE" value="工厂方法和抽象工厂" />
+    <MESSAGE value="简单工厂和工厂方法和抽象工厂" />
+    <option name="LAST_COMMIT_MESSAGE" value="简单工厂和工厂方法和抽象工厂" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
@@ -634,13 +554,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/MainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/SimpleFactory/HaiErTv.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -724,6 +637,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FactoryDemo/src/main/java/com/github/AbstractFactoryMethod/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
         </state>
       </provider>
     </entry>
