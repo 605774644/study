@@ -1,5 +1,9 @@
 package com.github.AbstractFactoryMethod;
 
+import com.github.AbstractFactoryMethod.intface.Factory;
+import com.github.AbstractFactoryMethod.intface.Phone;
+import com.github.AbstractFactoryMethod.intface.Tv;
+
 /**
  * @Program: Study
  * @Description: 测试
@@ -8,11 +12,11 @@ package com.github.AbstractFactoryMethod;
  **/
 public class MainTest {
     public static void main(String[] args) throws ClassNotFoundException {
-        Factory phoneFactory = new PhoneFactory();
+        Factory phoneFactory = new HaiErFactory();
         Phone apple = phoneFactory.getPhone("Apple");
         apple.call();
 
-        TvFactory tvFactory = new TvFactory();
+        SanXinFactory tvFactory = new SanXinFactory();
         Tv sanXin = tvFactory.getTv("SanXin");
         sanXin.see();
 

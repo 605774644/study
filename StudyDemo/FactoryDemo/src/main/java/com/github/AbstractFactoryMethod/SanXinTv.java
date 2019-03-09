@@ -1,5 +1,7 @@
 package com.github.AbstractFactoryMethod;
 
+import com.github.AbstractFactoryMethod.intface.Tv;
+
 /**
  * @Program: Study
  * @Description: 三星电视

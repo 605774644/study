@@ -1,4 +1,4 @@
-package com.github.AbstractFactoryMethod;
+package com.github.AbstractFactoryMethod.intface;
 
 /**
  * @Program: Study
