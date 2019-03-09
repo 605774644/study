@@ -11,13 +11,17 @@ import com.github.AbstractFactoryMethod.intface.Tv;
  * @Date: 2019-03-08 15:39
  **/
 public class MainTest {
-    public static void main(String[] args) throws ClassNotFoundException {
-        Factory phoneFactory = new HaiErFactory();
-        Phone apple = phoneFactory.getPhone("Apple");
+    public static void main(String[] args) {
+        Factory haiErFactory = new HaiErFactory();
+        Phone apple = haiErFactory.getPhone();
+        Tv tv = haiErFactory.getTv();
         apple.call();
+        tv.see();
 
-        SanXinFactory tvFactory = new SanXinFactory();
-        Tv sanXin = tvFactory.getTv("SanXin");
+        SanXinFactory sanXinFactory = new SanXinFactory();
+        Phone phone = sanXinFactory.getPhone();
+        Tv sanXin = sanXinFactory.getTv();
+        phone.call();
         sanXin.see();
 
     }
